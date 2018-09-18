@@ -1,1 +1,2 @@
-# rangitoto-heroes
+# rangitoto
+AngularDart Tour of Heroes
